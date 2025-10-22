@@ -8,4 +8,8 @@
 
 ## Flutter
 
-- [查找 Flutter iOS App 的沙盒路径](flutter/ios_simulator_sandbox.md)
+- [查找 Flutter iOS App 的沙盒路径](flutter/ios-simulator-sandbox.md)
+
+## Github
+
+- [GitHub SSH 密钥配置指南](github/setup-ssh.md)
